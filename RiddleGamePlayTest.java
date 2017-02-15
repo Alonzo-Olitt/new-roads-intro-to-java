@@ -23,7 +23,8 @@ public class RiddleGamePlayTest{
      new RiddleQuestion("Gianni's father has three sons : SJ, Tyji, and ", "Gianni"),
      new RiddleQuestion("What part of the turkey has the most feathers?", "outside"),
      new RiddleQuestion("I go in hard. I come out soft. You blow me hard. What am I?", "gum"),
-     new RiddleQuestion("What begins with T, ends with T and has T in it?", "teapot")
+     new RiddleQuestion("What begins with T, ends with T and has T in it?", "teapot"),
+     new RiddleQuestion("You can't see me, but I'm very strong and I'm very popular. Answer in one word.", "JohnCena")
     };
     
     
