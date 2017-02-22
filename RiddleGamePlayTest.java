@@ -9,6 +9,9 @@ public class RiddleGamePlayTest{
   
   public static void main(String[] args){
     
+    RiddleSplash riddlesplash = new RiddleSplash();
+    riddlesplash.introSplash();
+    
     String name;
     String answer;
     int riddleIndex = 0;
