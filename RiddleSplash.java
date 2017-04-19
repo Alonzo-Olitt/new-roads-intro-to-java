@@ -6,6 +6,7 @@ public  RiddleSplash(){
   
 }
  
+//creates splash screen  
 public void introSplash(){
   
   
